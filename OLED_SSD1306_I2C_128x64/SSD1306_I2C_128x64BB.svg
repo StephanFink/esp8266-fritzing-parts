@@ -33,8 +33,8 @@
 	<polygon fill="#454545" points="47.764,3.328 49.622,1.473 49.622,8.899 47.764,7.041 	"/>
 	<polygon fill="#454545" points="53.333,1.473 55.191,3.328 55.191,7.041 53.333,8.899 	"/>
 	<rect x="50.82" y="4.349" fill="#B68B2D" width="1.312" height="1.668"/>
-	<text transform="matrix(1 0 0 1 27.165 12.1396)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">VCC</text>
-	<text transform="matrix(1 0 0 1 34.4883 12.1377)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">GND</text>
+	<text transform="matrix(1 0 0 1 27.165 12.1396)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">GND</text>
+	<text transform="matrix(1 0 0 1 34.4883 12.1377)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">VCC</text>
 	<text transform="matrix(1 0 0 1 41.8115 12.1396)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">SCL</text>
 	<text transform="matrix(1 0 0 1 49.1348 12.1377)" fill="#FFFFFF" font-family="'OCRA'" font-size="2.5">SDA</text>
 	<rect x="1.238" y="12.726" fill="#231F20" width="79.125" height="46"/>
