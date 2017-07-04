@@ -5,8 +5,8 @@
 	 width="58px" height="50px" viewBox="0 0 58 50" enable-background="new 0 0 58 50" xml:space="preserve">
 <text transform="matrix(1 0 0 1 9.5669 37.1494)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SDA</text>
 <text transform="matrix(1 0 0 1 9.5659 30.0791)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">SCL</text>
-<text transform="matrix(1 0 0 1 25.0835 41.4521)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
-<text transform="matrix(1 0 0 1 25.6655 11)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">VCC</text>
+<text transform="matrix(1 0 0 1 25.0835 41.4521)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">VCC</text>
+<text transform="matrix(1 0 0 1 25.6655 11)" fill="#231F20" font-family="'DroidSans'" font-size="3.5">GND</text>
 <rect x="7.272" y="7.201" fill="none" stroke="#231F20" stroke-width="0.7" stroke-miterlimit="10" width="50.399" height="35.714"/>
 <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="28.856" y1="7.271" x2="28.872" y2="0.001"/>
 <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="0.072" y1="28.801" x2="7.343" y2="28.816"/>
